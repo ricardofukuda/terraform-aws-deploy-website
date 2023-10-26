@@ -1,5 +1,5 @@
 # About
-Project to deploy a simple static website (dev and stage) on AWS.
+Terraform project to deploy a static website (dev and stage) on AWS using Nginx as a backend webserver.
 
 # Some resources being used
 - EC2
